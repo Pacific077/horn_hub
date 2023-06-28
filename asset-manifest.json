@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/horn_hub/static/css/main.51702526.css",
+    "main.js": "/horn_hub/static/js/main.2d9b503f.js",
+    "static/media/vid5.mp4": "/horn_hub/static/media/vid5.9d143fbe33280e18ace7.mp4",
+    "static/media/vid7.mp4": "/horn_hub/static/media/vid7.4ee57cb2f28606258973.mp4",
+    "static/media/vid3.mp4": "/horn_hub/static/media/vid3.5a510e33cb8981e6035f.mp4",
+    "static/media/vid1.mp4": "/horn_hub/static/media/vid1.929316764d0804d4c729.mp4",
+    "static/media/vid4.mp4": "/horn_hub/static/media/vid4.30f4c4f9822bb0686ab9.mp4",
+    "static/media/vid6.mp4": "/horn_hub/static/media/vid6.3c87f6c39d6ef2a31f9c.mp4",
+    "static/media/vid2.mp4": "/horn_hub/static/media/vid2.6dafdae53e7e15c2d8e0.mp4",
+    "static/media/img4.jpg": "/horn_hub/static/media/img4.53bf85b66dcfb291aee7.jpg",
+    "static/media/img2.jpg": "/horn_hub/static/media/img2.989779ce065e7a1e30e9.jpg",
+    "static/media/img1.jpg": "/horn_hub/static/media/img1.3a72c2b7160156236651.jpg",
+    "static/media/img5.jpg": "/horn_hub/static/media/img5.ce79830650b96feb3660.jpg",
+    "static/media/img3.jpg": "/horn_hub/static/media/img3.03407ace5ee591031150.jpg",
+    "static/media/cloudupload.png": "/horn_hub/static/media/cloudupload.238eb4879b627fb5f082.png",
+    "index.html": "/horn_hub/index.html",
+    "main.51702526.css.map": "/horn_hub/static/css/main.51702526.css.map",
+    "main.2d9b503f.js.map": "/horn_hub/static/js/main.2d9b503f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51702526.css",
+    "static/js/main.2d9b503f.js"
+  ]
+}
